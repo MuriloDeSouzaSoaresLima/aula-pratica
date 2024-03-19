@@ -1,0 +1,11 @@
+var nome = "Murilo";
+var idade = 16;
+var lazer1 = "Comer";
+var lazer2 = "Olhar promo";
+var lazer3 = "Jogar";
+var faculdade1 = "ci\u00EAncia da computa\u00E7\u00E3o";
+var faculdade2 = "Biologia";
+console.log("Bom dia!! Meu nome \u00E9 " + nome + " a minha idade \u00E9 " + idade + ",");
+console.log("tenho como momento de lazer " + lazer1 + ", " + lazer2 + " e o que mais gosto de fazer \u00E9 " + lazer3 + ".");
+console.log("Pretendo ingressar em uma universidade, at\u00E9 o momento");
+console.log("estou tendencioso a fazer " + faculdade1 + ", minha segunda op\u00E7\u00E3o \u00E9 " + faculdade2);
